@@ -50,3 +50,5 @@ naive_solution_O_n2(input)
 
 # Next: read on algorithms on how to do it in a smart way (algorithm to find a pair of values)
 
+# Next: figure out and think through a solution based on sorting the array first
+
